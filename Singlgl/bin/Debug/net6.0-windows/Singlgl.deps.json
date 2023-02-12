@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Singlgl/1.0.0": {
+        "dependencies": {
+          "LogsForUsr": "1.0.0"
+        },
+        "runtime": {
+          "Singlgl.dll": {}
+        }
+      },
+      "LogsForUsr/1.0.0": {
+        "runtime": {
+          "LogsForUsr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Singlgl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogsForUsr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

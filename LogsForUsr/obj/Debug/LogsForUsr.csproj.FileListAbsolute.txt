@@ -1,0 +1,6 @@
+F:\Lab\labs\Singlgl\LogsForUsr\bin\Debug\LogsForUsr.dll
+F:\Lab\labs\Singlgl\LogsForUsr\bin\Debug\LogsForUsr.pdb
+F:\Lab\labs\Singlgl\LogsForUsr\obj\Debug\LogsForUsr.csproj.AssemblyReference.cache
+F:\Lab\labs\Singlgl\LogsForUsr\obj\Debug\LogsForUsr.csproj.CoreCompileInputs.cache
+F:\Lab\labs\Singlgl\LogsForUsr\obj\Debug\LogsForUsr.dll
+F:\Lab\labs\Singlgl\LogsForUsr\obj\Debug\LogsForUsr.pdb
